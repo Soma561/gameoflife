@@ -1,0 +1,9 @@
+C:\Users\Soma\Desktop\Programok\Life\bin\Debug\Life.exe.config
+C:\Users\Soma\Desktop\Programok\Life\bin\Debug\Life.exe
+C:\Users\Soma\Desktop\Programok\Life\bin\Debug\Life.pdb
+C:\Users\Soma\Desktop\Programok\Life\obj\Debug\Life.csprojResolveAssemblyReference.cache
+C:\Users\Soma\Desktop\Programok\Life\obj\Debug\Life.Form1.resources
+C:\Users\Soma\Desktop\Programok\Life\obj\Debug\Life.Properties.Resources.resources
+C:\Users\Soma\Desktop\Programok\Life\obj\Debug\Life.csproj.GenerateResource.Cache
+C:\Users\Soma\Desktop\Programok\Life\obj\Debug\Life.exe
+C:\Users\Soma\Desktop\Programok\Life\obj\Debug\Life.pdb
